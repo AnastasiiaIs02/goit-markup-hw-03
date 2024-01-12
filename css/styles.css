@@ -324,7 +324,6 @@ img {
 }
 
 .portfolio-item {
-  border: 1px solid #e7e9fc;
   background: #fff;
   width: calc((100% - 48px) / 3);
 }
